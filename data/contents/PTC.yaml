@@ -40,7 +40,8 @@ products:
     deck:
     - name: Shawn Hammer Regnier, Quarterfinalist
       set: ptc
-  1996 World Championship Decks Set of Eight: []
+  1996 World Championship Decks Set of Eight: 
+    copy: Pro Tour Collector Set
   Pro Tour Collector Set:
     sealed:
     - count: 1
